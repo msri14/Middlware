@@ -9,7 +9,7 @@ Things Middleware can do:
 1. body-parser (preprocessing Middleware)
        - pre-process the requests before it reaches the route handlers.
        - After Pre-processing, the final request can be found in the req.body
-   run "node index1.js" to see it's implementation.
+   run "node index.js" to see it's implementation.
 
 2. morgan (logging)
        - logs the requests
