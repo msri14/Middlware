@@ -14,7 +14,7 @@ Things Middleware can do:
 2. morgan (logging)
        - logs the requests
        - available in predefined formats Ex: combined, tiny, short
-   run "node index2.js"
+   run "node index2.js".
 
 3. Custom Middleware
        - takes the inputs req, res and next
